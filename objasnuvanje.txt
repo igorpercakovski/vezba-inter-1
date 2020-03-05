@@ -1,5 +1,0 @@
-najprvo dodavame snap file reader za vcituvanje na Zadaca1.
-potoa go kopirame za da mozime da gi rqzdelime so plata nad 1500 i pod 1500 so filter snapot i kreirame fajlovi.
-kreirame i fajl so error.
-potoa kreirame child pipeline so vcituvanje na kreiranite fajlovi koi gi grupirame so union i so mapper go
-dobivame sucess fajlot so koloni ID i LastName.
